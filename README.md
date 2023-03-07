@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6D60F7&center=true&multiline=true&width=435&lines=Ol%C3%A1%2C+tudo+bem%3F+Me+chamo+Pedro!)](https://git.io/typing-svg)
+
 # 💫 About Me:
 👋 Olá, eu sou um estudante do terceiro semestre de Sistemas para Internet e estou muito empolgado em compartilhar um pouco sobre mim aqui no Github!<br><br>💻 Desde que comecei a aprender a programar, me apaixonei por todas as possibilidades que a tecnologia pode oferecer. Minhas habilidades incluem HTML, CSS, JavaScript, PHP e Node, e estou sempre procurando maneiras de aprimorar e expandir meu conhecimento.<br><br>🌐 Meu objetivo é criar soluções inovadoras e criativas para a web que possam melhorar a experiência do usuário e tornar a vida digital mais fácil e eficiente. Eu amo trabalhar em equipe e estou sempre aberto a novas ideias e desafios.<br><br>💭 Fora da programação, gosto de ler, jogar videogame e passar tempo com minha família e amigos. Sinta-se à vontade para explorar meu perfil no Github e entre em contato se quiser conversar sobre programação, projetos ou apenas bater um papo!
 
