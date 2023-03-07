@@ -1,5 +1,5 @@
 
-<h1>Olá, tudo bem?<br>
+<h1 align='center'>Olá, tudo bem?<br>
 Me chamo <a color='blue' href="https://www.linkedin.com/in/pedro-avila-a798a0211/">Pedro</a>! 😁</h1>
 
 # 💫 Sobre mim:
