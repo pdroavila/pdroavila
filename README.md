@@ -1,12 +1,14 @@
 
-<h1 align="center">Olá, tudo bem?<br>
+##Olá, tudo bem?<br>
 Me chamo <a color='blue' href="https://www.linkedin.com/in/pedro-avila-a798a0211/">Pedro</a>! 😁</h1>
 
 # 💫 Sobre mim:
 👋 Eu sou um estudante do terceiro semestre de Sistemas para Internet.<br><br>💻 Desde que comecei a aprender a programar, me apaixonei por todas as possibilidades que a tecnologia pode oferecer. Algumas das minhas habilidades incluem HTML, CSS, JavaScript, PHP, Node entre outras, e estou sempre procurando maneiras de aprimorar e expandir meu conhecimento.<br><br>🌐 Meu objetivo é criar soluções inovadoras e criativas para a web que possam melhorar a experiência do usuário e tornar a vida digital mais fácil e eficiente. Eu amo trabalhar em equipe e estou sempre aberto a novas ideias e desafios.<br><br>💭 Fora da programação, gosto de ler, jogar videogame e passar tempo com minha família e amigos. Sinta-se à vontade para explorar meu perfil no Github e entre em contato se quiser conversar sobre programação, projetos ou apenas bater um papo!
 
 
-# 💻 Stacks:
+# 💻 Skills:
+
+Principais:
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
