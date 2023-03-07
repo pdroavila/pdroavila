@@ -1,6 +1,6 @@
 
-<h1 align="center">Olá, tudo bem?<h1>
-<h1 align="center">Me chamo <a color='blue'>Pedro! 😁</a></h1>
+<h1 align="center">Olá, tudo bem?
+Me chamo <a color='blue'>Pedro! 😁</a></h1>
 
 # 💫 Sobre mim:
 👋 Eu sou um estudante do terceiro semestre de Sistemas para Internet.<br><br>💻 Desde que comecei a aprender a programar, me apaixonei por todas as possibilidades que a tecnologia pode oferecer. Algumas das minhas habilidades incluem HTML, CSS, JavaScript, PHP, Node entre outras, e estou sempre procurando maneiras de aprimorar e expandir meu conhecimento.<br><br>🌐 Meu objetivo é criar soluções inovadoras e criativas para a web que possam melhorar a experiência do usuário e tornar a vida digital mais fácil e eficiente. Eu amo trabalhar em equipe e estou sempre aberto a novas ideias e desafios.<br><br>💭 Fora da programação, gosto de ler, jogar videogame e passar tempo com minha família e amigos. Sinta-se à vontade para explorar meu perfil no Github e entre em contato se quiser conversar sobre programação, projetos ou apenas bater um papo!
