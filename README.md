@@ -38,7 +38,7 @@ Me chamo <a color='blue' href="https://www.linkedin.com/in/pedro-avila-a798a0211
 
 ### Ferramentas:
 <div>
-  <img align="center" alt="vs" src="https://img.shields.io/badge/VS Code-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+  <img src="https://img.shields.io/badge/VS Code-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="vs">
   <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" alt="Insomnia">
 </div>
 
